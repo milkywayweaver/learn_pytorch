@@ -5,3 +5,8 @@ This is a repo for my PyTorch learning journey, where I put the result of course
 Course I follow: <br>
 PyTorch for Deep Learning & Machine Learning - freeCodeCamp.org, taught by Daniel Bourke. <br>
 https://youtu.be/V_xro1bcAuA?si=luBE0ln8qKDfQWyM
+
+File naming convention:
+C (course) : files where I mostly follow the course step by step.
+P (projects) : files where I do things on my own.
+E (exercise) : files where I do the exercise of the course.
